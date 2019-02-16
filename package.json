@@ -1,0 +1,16 @@
+{
+  "name": "listtoarray",
+  "version": "1.0.0",
+  "description": "Genera un arreglo con la extraccion del campo lista",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Angel Peña Zuñiga",
+  "license": "ISC",
+  "dependencies": {
+    "chardet": "^0.7.0",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
