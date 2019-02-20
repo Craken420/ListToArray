@@ -1,0 +1,18 @@
+C:\Users\lapena\Documents\Luis Angel\Sección Mavi\Intelisis\Intelisis5000\Reportes MAVI\ArtDisponibleAlm_VIS_MAVI.esp
+
+SQL=(Lista)
+[ArtDisponibleAlm.vis/Vista.SQL]
+(Inicio)=Select GrupoAlmacen
+Select GrupoAlmacen=,Empresa
+,Empresa=,Articulo
+,Articulo=,Almacen
+,Almacen=,Transito<IGUAL>SUM(TRANSITO)
+,Transito<IGUAL>SUM(TRANSITO)=,Disponible<IGUAL>MAX(DISPONIBLE)
+,Disponible<IGUAL>MAX(DISPONIBLE)=,
+,=Total<IGUAL>(SUM(TRANSITO)+MAX(DISPONIBLE))
+Total<IGUAL>(SUM(TRANSITO)+MAX(DISPONIBLE))=,WMS
+,WMS=FROM V_MAVIDM0135IDTRANSITO
+FROM V_MAVIDM0135IDTRANSITO=GROUP BY GrupoAlmacen,Empresa,ALMACEN,ARTICULO,WMS
+GROUP BY GrupoAlmacen,Empresa,ALMACEN,ARTICULO,WMS=(Fin)
+
+

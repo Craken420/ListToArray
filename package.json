@@ -11,6 +11,7 @@
   "dependencies": {
     "chardet": "^0.7.0",
     "fs": "0.0.1-security",
+    "iconv-lite": "^0.4.24",
     "path": "^0.12.7"
   }
 }
