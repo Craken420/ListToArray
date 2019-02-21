@@ -1,54 +1,12 @@
 Funcional: el campo: 
-							Boton esta repetido en el componete 
-							Acciones.ref del archivo: c:\Users\lapena\Documents\Luis Angel\Sección Mavi\HerramientasMavi\ProyectosGit\ListToArray\Testing\ClienteExpressMavi.frm
+							FiltroAplicaEn1 esta repetido en el componete 
+							Lista del archivo: c:\Users\lapena\Documents\Luis Angel\Sección Mavi\Intelisis\Intelisis5000\Codigo Original\AgenteLista.frm
 Funcional: el campo: 
-							Boton esta repetido en el componete 
-							Acciones.ref del archivo: c:\Users\lapena\Documents\Luis Angel\Sección Mavi\HerramientasMavi\ProyectosGit\ListToArray\Testing\ClienteExpressMavi.frm
+							OtroOrden esta repetido en el componete 
+							(Carpeta Abrir) del archivo: c:\Users\lapena\Documents\Luis Angel\Sección Mavi\Intelisis\Intelisis5000\Codigo Original\AlmPos.frm
 Funcional: el campo: 
-							Boton esta repetido en el componete 
-							Acciones.ref del archivo: c:\Users\lapena\Documents\Luis Angel\Sección Mavi\HerramientasMavi\ProyectosGit\ListToArray\Testing\ClienteExpressMavi.frm
-Funcional: el campo: 
-							Boton esta repetido en el componete 
-							Acciones.ref del archivo: c:\Users\lapena\Documents\Luis Angel\Sección Mavi\HerramientasMavi\ProyectosGit\ListToArray\Testing\ClienteExpressMavi.frm
-Funcional: el campo: 
-							Boton esta repetido en el componete 
-							Acciones.ref del archivo: c:\Users\lapena\Documents\Luis Angel\Sección Mavi\HerramientasMavi\ProyectosGit\ListToArray\Testing\ClienteExpressMavi.frm
-Funcional: el campo: 
-							Boton esta repetido en el componete 
-							Acciones.ref del archivo: c:\Users\lapena\Documents\Luis Angel\Sección Mavi\HerramientasMavi\ProyectosGit\ListToArray\Testing\ClienteExpressMavi.frm
-Funcional: el campo: 
-							Boton esta repetido en el componete 
-							Acciones.ref del archivo: c:\Users\lapena\Documents\Luis Angel\Sección Mavi\HerramientasMavi\ProyectosGit\ListToArray\Testing\ClienteExpressMavi.frm
-Funcional: el campo: 
-							Boton esta repetido en el componete 
-							Acciones.ref del archivo: c:\Users\lapena\Documents\Luis Angel\Sección Mavi\HerramientasMavi\ProyectosGit\ListToArray\Testing\ClienteExpressMavi.frm
-Funcional: el campo: 
-							Boton esta repetido en el componete 
-							Acciones.ref del archivo: c:\Users\lapena\Documents\Luis Angel\Sección Mavi\HerramientasMavi\ProyectosGit\ListToArray\Testing\ClienteExpressMavi.frm
-Funcional: el campo: 
-							Boton esta repetido en el componete 
-							Acciones.ref del archivo: c:\Users\lapena\Documents\Luis Angel\Sección Mavi\HerramientasMavi\ProyectosGit\ListToArray\Testing\ClienteExpressMavi.frm
-Funcional: el campo: 
-							Boton esta repetido en el componete 
-							Acciones.ref del archivo: c:\Users\lapena\Documents\Luis Angel\Sección Mavi\HerramientasMavi\ProyectosGit\ListToArray\Testing\ClienteExpressMavi.frm
-Funcional: el campo: 
-							Boton esta repetido en el componete 
-							Acciones.ref del archivo: c:\Users\lapena\Documents\Luis Angel\Sección Mavi\HerramientasMavi\ProyectosGit\ListToArray\Testing\ClienteExpressMavi.frm
-Funcional: el campo: 
-							Boton esta repetido en el componete 
-							Acciones.ref del archivo: c:\Users\lapena\Documents\Luis Angel\Sección Mavi\HerramientasMavi\ProyectosGit\ListToArray\Testing\ClienteExpressMavi.frm
-Funcional: el campo: 
-							Boton esta repetido en el componete 
-							Acciones.ref del archivo: c:\Users\lapena\Documents\Luis Angel\Sección Mavi\HerramientasMavi\ProyectosGit\ListToArray\Testing\ClienteExpressMavi.frm
-Funcional: el campo: 
-							Boton esta repetido en el componete 
-							Acciones.ref del archivo: c:\Users\lapena\Documents\Luis Angel\Sección Mavi\HerramientasMavi\ProyectosGit\ListToArray\Testing\ClienteExpressMavi.frm
-Funcional: el campo: 
-							Boton esta repetido en el componete 
-							Acciones.ref del archivo: c:\Users\lapena\Documents\Luis Angel\Sección Mavi\HerramientasMavi\ProyectosGit\ListToArray\Testing\ClienteExpressMavi.frm
-Funcional: el campo: 
-							Boton esta repetido en el componete 
-							Acciones.ref del archivo: c:\Users\lapena\Documents\Luis Angel\Sección Mavi\HerramientasMavi\ProyectosGit\ListToArray\Testing\ClienteExpressMavi.frm
-Funcional: el campo: 
-							Boton esta repetido en el componete 
-							Acciones.ref del archivo: c:\Users\lapena\Documents\Luis Angel\Sección Mavi\HerramientasMavi\ProyectosGit\ListToArray\Testing\ClienteExpressMavi.frm
+							FiltroAutoCampo esta repetido en el componete 
+							(Carpeta Abrir) del archivo: c:\Users\lapena\Documents\Luis Angel\Sección Mavi\Intelisis\Intelisis5000\Codigo Original\AlmPos.frm
+Funcional:
+						el componente: Hoja.ArtAlm.MinimoTarima
+						esta repetido en al archivo: c:\Users\lapena\Documents\Luis Angel\Sección Mavi\Intelisis\Intelisis5000\Codigo Original\ArtAlm.frm
